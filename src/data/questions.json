@@ -8,16 +8,16 @@
     },
     {
         "id": 2,
-        "image": "./images/pakistan.jpg",
-        "statement": "What is the capital of pakistan?",
-        "options": ["Karachi", "Islamabad", "Peshawar", "Lahore"],
-        "answer": "Islamabad"
+        "image": "./images/india.png",
+        "statement": "What is the capital of india?",
+        "options": ["New Delhi", "Mumbai", "Chennai", "Bengaluru"],
+        "answer": "New Delhi"
     },
     {
         "id": 3,
-        "image": "./images/pakistan.jpg",
-        "statement": "What is the capital of pakistan?",
-        "options": ["Karachi", "Islamabad", "Peshawar", "Lahore"],
-        "answer": "Islamabad"
+        "image": "./images/china.png",
+        "statement": "What is the capital of china?",
+        "options": ["Wuhan", "Nanjing", "Shanghai", "Beijing"],
+        "answer": "Beijing"
     }
 ]
