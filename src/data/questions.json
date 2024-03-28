@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "image": "./images/pakistan.jpg",
+        "statement": "What is the capital of pakistan?",
+        "options": ["Karachi", "Islamabad", "Peshawar", "Lahore"],
+        "answer": "Islamabad"
+    },
+    {
+        "id": 2,
+        "image": "./images/pakistan.jpg",
+        "statement": "What is the capital of pakistan?",
+        "options": ["Karachi", "Islamabad", "Peshawar", "Lahore"],
+        "answer": "Islamabad"
+    },
+    {
+        "id": 3,
+        "image": "./images/pakistan.jpg",
+        "statement": "What is the capital of pakistan?",
+        "options": ["Karachi", "Islamabad", "Peshawar", "Lahore"],
+        "answer": "Islamabad"
+    }
+]
