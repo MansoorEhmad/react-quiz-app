@@ -54,7 +54,7 @@ function App() {
                   </div>
                 ))}
               </div>
-              <a href="#" className="btn btn-primary" onClick={onSelectNext}>
+              <a href="#" className="btn btn-primary mt-4" onClick={onSelectNext}>
                 Next
               </a>
             </div>
