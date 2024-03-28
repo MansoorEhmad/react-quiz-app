@@ -31,11 +31,11 @@ function App() {
         {
           <div className="card text-center mt-4" key={q.id}>
             <div className="card-header bg-primary text-white">
-              {q.id}. {questions[0].statement}
+              {q.id}. {q.statement}
             </div>
             <div className="card-body">
               <h5 className="card-title">
-                <img src={questions[0].image} />
+                <img src={q.image} />
               </h5>
               <div className="row">
                 {q.options.map((op) => (
