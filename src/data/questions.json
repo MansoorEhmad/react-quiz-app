@@ -22,23 +22,122 @@
     },
     {
         "id": 4,
-        "image": "pakistan.jpg",
-        "statement": "What is the capital of pakistan?",
-        "options": ["Karachi", "Islamabad", "Peshawar", "Lahore"],
-        "answer": "Islamabad"
+        "image": "uk.jpeg",
+        "statement": "What is the capital of UK?",
+        "options": ["London", "Bristol", "Carlisle", "Canterbury"],
+        "answer": "London"
     },
     {
         "id": 5,
-        "image": "india.png",
-        "statement": "What is the capital of india?",
-        "options": ["New Delhi", "Mumbai", "Chennai", "Bengaluru"],
-        "answer": "New Delhi"
+        "image": "russia.png",
+        "statement": "What is the capital of russia?",
+        "options": ["Yekaterinburg", "Kazan", "Moscow", "Chelyabinsk"],
+        "answer": "Moscow"
     },
     {
         "id": 6,
-        "image": "china.png",
-        "statement": "What is the capital of china?",
-        "options": ["Wuhan", "Nanjing", "Shanghai", "Beijing"],
-        "answer": "Beijing"
+        "image": "sriLanka.jpeg",
+        "statement": "What is the capital of sri lanka?",
+        "options": ["Jaffna", "Kandy", "Galle", "Colombo"],
+        "answer": "Colombo"
+    },
+    {
+        "id": 7,
+        "image": "iran.png",
+        "statement": "What is the capital of iran?",
+        "options": ["Ahvaz", "Tehran", "Isfahan", "Tabriz"],
+        "answer": "Tehran"
+    },
+    {
+        "id": 8,
+        "image": "afghanistan.jpeg",
+        "statement": "What is the capital of afghanistan?",
+        "options": ["Kabul", "Kandahar", "Jalalabad", "Konduz"],
+        "answer": "Kabul"
+    },
+    {
+        "id": 9,
+        "image": "japan.png",
+        "statement": "What is the capital of japan?",
+        "options": ["Sapporo", "Fukuoka", "Kyoto", "Tokyo"],
+        "answer": "Tokyo"
+    },
+    {
+        "id": 10,
+        "image": "germany.png",
+        "statement": "What is the capital of germany?",
+        "options": ["Berlin", "Hamburg", "Dortmund", "Stuttgart"],
+        "answer": "Berlin"
+    },
+    {
+        "id": 11,
+        "image": "bangladesh.png",
+        "statement": "What is the capital of bangladesh?",
+        "options": ["Rajshahi", "Barisal", "Dhaka", "Rangpur"],
+        "answer": "Dhaka"
+    },
+    {
+        "id": 12,
+        "image": "canada.png",
+        "statement": "What is the capital of canada?",
+        "options": ["Calgary", "Edmonton", "Saint John", "Ottawa"],
+        "answer": "Ottawa"
+    },
+    {
+        "id": 13,
+        "image": "scotland.png",
+        "statement": "What is the capital of scotland?",
+        "options": ["Inverness", "Dundee", "Edinburgh", "Perth"],
+        "answer": "Edinburgh"
+    },
+    {
+        "id": 14,
+        "image": "ireland.png",
+        "statement": "What is the capital of ireland?",
+        "options": ["Dublin", "Limerick", "Cork", "Galway"],
+        "answer": "Dublin"
+    },
+    {
+        "id": 15,
+        "image": "uae.png",
+        "statement": "What is the capital of UAE?",
+        "options": ["Dubai", "Sharjah", "Abu Dhabi", "Ajman"],
+        "answer": "Abu Dhabi"
+    },
+    {
+        "id": 16,
+        "image": "saudiArabia.png",
+        "statement": "What is the capital of saudi arabia?",
+        "options": ["Jeddah", "Medina", "Dammam", "Riyadh"],
+        "answer": "Riyadh"
+    },
+    {
+        "id": 17,
+        "image": "australia.png",
+        "statement": "What is the capital of australia?",
+        "options": ["Bendigo", "Canberra", "Darwin", "Gold Coast"],
+        "answer": "Canberra"
+    },
+    {
+        "id": 18,
+        "image": "brazil.jpeg",
+        "statement": "What is the capital of brazil?",
+        "options": ["Manaus", "Recife", "Brasília", "Fortaleza"],
+        "answer": "Brasília"
+    },
+    {
+        "id": 19,
+        "image": "egypt.png",
+        "statement": "What is the capital of egypt?",
+        "options": ["Luxor", "Cairo", "Aswan", "Hurghada"],
+        "answer": "Cairo"
+    },
+    {
+        "id": 20,
+        "image": "finland.png",
+        "statement": "What is the capital of finland?",
+        "options": ["Vantaa", "Espoo", "Tampere", "Helsinki"],
+        "answer": "Helsinki"
     }
+
 ]

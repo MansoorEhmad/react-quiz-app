@@ -5,6 +5,7 @@ import {
   buildStyles,
   CircularProgressbarWithChildren,
 } from "react-circular-progressbar";
+
 // npm install --save react-circular-progressbar
 //import { CircularProgressbar } from 'react-circular-progressbar';
 // import 'react-circular-progressbar/dist/styles.css';
@@ -43,7 +44,6 @@ function App() {
         if (t > 1) {
           return t - 1;
         } else if (qIndex < questions.length) {
-          console.log(questions.length);
           setIndex((prevIndex) => prevIndex + 1);
           return 5;
         }
@@ -56,7 +56,6 @@ function App() {
 
   let [details, setDetails] = useState(false);
   const handlDetails = () => {
-    alert("Hello");
     if (details) {
       setDetails(false);
     } else {
@@ -88,7 +87,7 @@ function App() {
               <p className="card-text">
                 Correct Answer's:{" "}
                 <span className="badge bg-success">{correct}</span> <br />
-                Click on details button to check details thank you. <br />
+                <h6 className="mt-2">Click on details button to check details thank you.</h6>
               </p>
               <a href="#" className="btn btn-primary" onClick={handlDetails}>
                 Details
